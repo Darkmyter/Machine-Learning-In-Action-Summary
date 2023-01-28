@@ -14,5 +14,7 @@ This book  is destined to anyone that is involved with the making of ML projects
 
 ## Summaries
 
+The summaries will be added and updated as I'm reading the book.
+
 * [Chapter 1: What is a machine learning engineer?](summaries/chapter1.md)
 * [Chapter 2: Your data science could use some engineering](summaries/chapter2.md)
