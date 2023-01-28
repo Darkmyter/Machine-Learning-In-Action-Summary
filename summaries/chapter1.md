@@ -1,5 +1,7 @@
-# What is machine Learning Engineering
+<div align="center">
 
+# Chapter 1: What is machine Learning Engineering
+</div>
 ML engineering focus on creating system around the complex work of different specialists (Data Scientist, Data Engineers, Business unit, ...). With the use of tools, processes and methodologies, the aim is to build a system that is scalable, maintainable and minimizes the chances of abandonment and work need to solve the business problem with the accuracy proven to provide.
 
 ML Engineers need to be proficient in data science, traditional software engineering and project management skills relevant to develop production-capable ML solutions.
