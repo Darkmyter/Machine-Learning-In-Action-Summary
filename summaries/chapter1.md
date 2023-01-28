@@ -6,29 +6,22 @@ ML Engineers need to be proficient in data science, traditional software enginee
 
 ML Engineering road map is the steps of processes that guide the design of the ML solution to prevent rework, confusion, complexity and mainly failure.
 
-
-
-<!-- <p align="center" width="100%"> -->
-<!-- <center> -->
 <div align="center">
 
 | <img width="75%" src="resources/ch1-ml-road-map.png"> | 
 |:--:| 
 | *ML Engineering road map for project work* |
 </div>
-<!-- </center> -->
-<!-- </p> -->
-
 
 ## Why ML projects fail ?
 Understanding why most ML projects fail is equally important as iterating through the steps of the road map. Learning from other projects is key in this field.
 
-<p align="center" width="100%">
+<div align="center">
 
 | <img width="75%" src="resources/ch1-why-ml-projects-fail.png"> | 
 |:--:| 
 | *Estimation of why ML projects fail* |
-</p>
+</div>
 
 In general, failures are due to:
 * The inadequacy of the DS team in terms of experience or size in relevancy to the problem scale.
@@ -37,28 +30,24 @@ In general, failures are due to:
   * miscommunication owing to the challenging technical complexity.
 * Relative industry immaturity in tooling.
 
-
-
-<p align="center" width="100%">
+<div align="center">
 
 | <img width="75%" src="resources/ch1-ml-project-detours.png"> | 
 |:--:| 
 | *ML project detours that lead to project failure* |
-</p>
+</div>
 
 ## The core principles os ML Engineering
 An introduction of the tenets of ML Engineering and their problematic side.
 ### Planning
 The planning phase needs to focus on **what will be built** and **why it needs to be built. Putting aside the technical details and the how it will be built question** by the DS team. This helps keep the attention on understanding the need, expectations and the end goal of the predictions.
 
-
-<p align="center" width="100%">
+<div align="center">
 
 | <img width="75%" src="resources/ch1-planning-discussion-diagram.png"> | 
 |:--:| 
 | *An example of ML project planning discussion diagram* |
-</p>
-
+</div>
 
 ### Scoping and research
 When it comes to research, two problematic mindsets exist:
@@ -109,9 +98,9 @@ The goal of ML Engineering goes back to the simple task of solving a problem. A 
 The solution is built with statistics, algorithms and predictive models  
 Keeping in mind the methodology of ML projects helps overcoming the complexity of these elements and possible failure.
 
-<p align="center" width="100%">
+<div align="center">
 
 | <img width="75%" src="resources/ch1-ml-methodo-map.png"> | 
 |:--:| 
 | *ML project methodology component map* |
-</p>
+</div>
