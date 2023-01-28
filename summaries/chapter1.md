@@ -9,12 +9,14 @@ ML Engineering road map is the steps of processes that guide the design of the M
 
 
 <!-- <p align="center" width="100%"> -->
-<center>
+<!-- <center> -->
+<div align="center">
 
 | <img width="75%" src="resources/ch1-ml-road-map.png"> | 
 |:--:| 
 | *ML Engineering road map for project work* |
-</center>
+</div>
+<!-- </center> -->
 <!-- </p> -->
 
 
