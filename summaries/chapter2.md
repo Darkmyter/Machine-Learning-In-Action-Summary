@@ -20,6 +20,7 @@ ML Engineering build on the skills DS in constructive way that bring the solutio
 | <img width="75%" src="resources/ch2-ds-ml-engineer-roles.png"> | 
 |:--:| 
 | *The merging of software engineering and DS into ML engineer role* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
 
 
@@ -33,6 +34,7 @@ Simple ML project secure the foundation of maintainable code base and workflows.
 | <img width="75%" src="resources/ch2-simple-ml-approach.png"> | 
 |:--:| 
 | *The simplistic approach of building an ML project* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
 
 
@@ -46,6 +48,7 @@ The author proposes a version adapted to ML projects.
 | <img width="75%" src="resources/ch2-agile-ml.png"> | 
 |:--:| 
 | *Agile principles of software and ML engineering* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
 
 Two points Agile development, that boost the ml projects, are further detailed here:
@@ -58,6 +61,7 @@ Two points Agile development, that boost the ml projects, are further detailed h
     | <img width="75%" src="resources/ch2-ml-agile-communication.png"> | 
     |:--:| 
     | *ML Agile feature creation process, focusing on requirement gathering and feedback* |
+    | *(Source: Machine Learning In Action, Ben Wilson 2022)* |
     </div>
 * **Embracing and expecting change**:
   * Changes in the problem end goal are a real thing in ML projects even at the late stage. Anticipating these changes and preparing for them is only way around.
@@ -74,4 +78,5 @@ In analogy to DevOps in software development, MLOps is a paradigm that encapsule
 | <img width="75%" src="resources/ch2-mlops.png"> | 
 |:--:| 
 | *ML Operations (MLOps)* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>

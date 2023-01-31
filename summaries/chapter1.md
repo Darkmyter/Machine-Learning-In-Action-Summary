@@ -13,6 +13,7 @@ ML Engineering road map is the steps of processes that guide the design of the M
 | <img width="75%" src="resources/ch1-ml-road-map.png"> | 
 |:--:| 
 | *ML Engineering road map for project work* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
 
 ## Why ML projects fail ?
@@ -23,6 +24,7 @@ Understanding why most ML projects fail is equally important as iterating throug
 | <img width="75%" src="resources/ch1-why-ml-projects-fail.png"> | 
 |:--:| 
 | *Estimation of why ML projects fail* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
 
 In general, failures are due to:
@@ -37,6 +39,7 @@ In general, failures are due to:
 | <img width="75%" src="resources/ch1-ml-project-detours.png"> | 
 |:--:| 
 | *ML project detours that lead to project failure* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
 
 ## The core principles os ML Engineering
@@ -49,6 +52,7 @@ The planning phase needs to focus on **what will be built** and **why it needs t
 | <img width="75%" src="resources/ch1-planning-discussion-diagram.png"> | 
 |:--:| 
 | *An example of ML project planning discussion diagram* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
 
 ### Scoping and research
@@ -105,4 +109,5 @@ Keeping in mind the methodology of ML projects helps overcoming the complexity o
 | <img width="75%" src="resources/ch1-ml-methodo-map.png"> | 
 |:--:| 
 | *ML project methodology component map* |
+| *(Source: Machine Learning In Action, Ben Wilson 2022)* |
 </div>
